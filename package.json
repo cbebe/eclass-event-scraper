@@ -1,0 +1,15 @@
+{
+  "name": "eclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "prompt": "^1.2.0",
+    "puppeteer": "^13.0.0"
+  }
+}
